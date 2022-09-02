@@ -1,4 +1,4 @@
-### [App live version](https://sveltekit-test-app-stefanszeke.vercel.app/)
+# [App live version](https://sveltekit-test-app-stefanszeke.vercel.app/)
 
 # create-svelte
 
